@@ -1,5 +1,6 @@
 package com.spring_boot_mybatis.project;
 
+import org.apache.catalina.connector.Connector;
 import org.mybatis.spring.annotation.MapperScan;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
